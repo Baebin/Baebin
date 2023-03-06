@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nunebin)](https://solved.ac/nunebin/)
+</br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baebin&show_icons=true&theme=radical)
 
 <!--
